@@ -80,4 +80,4 @@ This pipeline mirrors what production systems at Amazon, Flipkart, and Myntra us
 - Reduce manual content moderation costs
 
 ---
-Built by Preeti Bhardwaj — [github.com/mistyvisty](https://github.com/mistyvisty) | 7-Day AI Challenge Day 5
+Built by Preeti Bhardwaj — [github.com/mistyvisty](https://github.com/mistyvisty) | 
